@@ -11,7 +11,7 @@
 ![画板](../image_zh/operate_process.jpeg)
 
 # 项目产品接入
-使用数眼智能前，您需要前往[项目产品](https://www.yuque.com/maticoo/eetpxb/hp4ms7m961op8rly)新建上报和分析所使用的项目和产品。
+使用数眼智能前，您需要前往项目产品新建上报和分析所使用的项目和产品。
 
 **新建项目**
 
